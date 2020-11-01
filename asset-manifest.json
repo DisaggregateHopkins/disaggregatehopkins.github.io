@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/disaggregatehopkins.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/disaggregatehopkins.github.io/static/js/main.d3e8861d.chunk.js",
+    "main.js.map": "/disaggregatehopkins.github.io/static/js/main.d3e8861d.chunk.js.map",
+    "runtime-main.js": "/disaggregatehopkins.github.io/static/js/runtime-main.7a02ea51.js",
+    "runtime-main.js.map": "/disaggregatehopkins.github.io/static/js/runtime-main.7a02ea51.js.map",
+    "static/js/2.2de9ca83.chunk.js": "/disaggregatehopkins.github.io/static/js/2.2de9ca83.chunk.js",
+    "static/js/2.2de9ca83.chunk.js.map": "/disaggregatehopkins.github.io/static/js/2.2de9ca83.chunk.js.map",
+    "index.html": "/disaggregatehopkins.github.io/index.html",
+    "precache-manifest.a41ccbdaa3b243bd9222902a04cac9dd.js": "/disaggregatehopkins.github.io/precache-manifest.a41ccbdaa3b243bd9222902a04cac9dd.js",
+    "service-worker.js": "/disaggregatehopkins.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/disaggregatehopkins.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2de9ca83.chunk.js.LICENSE.txt": "/disaggregatehopkins.github.io/static/js/2.2de9ca83.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/disaggregatehopkins.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a02ea51.js",
+    "static/js/2.2de9ca83.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d3e8861d.chunk.js"
+  ]
+}
